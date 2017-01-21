@@ -1,2 +1,2 @@
-# coursera-test
-Coursera test repository
+# PHP_Course
+PHP test repository
